@@ -11,10 +11,10 @@ I'm a 17 y/o interested in Cybersecurity.
 
 ## Connect with me
 
-[![Twitter](http://127.0.0.1/twitter-logo.png)][Twitter]
-[![Discord](http://127.0.0.1/discord-logo.png)][Discord]
-[![TryHackMe](http://127.0.0.1/thm-logo.png)][TryHackMe]
-[![HackTheBox](http://127.0.0.1/htb-logo.png)][HackTheBox]
+[![Twitter](assets/twitter-logo.png)][Twitter]
+[![Discord](assets/discord-logo.png)][Discord]
+[![TryHackMe](assets/thm-logo.png)][TryHackMe]
+[![HackTheBox](assets/htb-logo.png)][HackTheBox]
 
 ---
 
