@@ -1,5 +1,5 @@
 ## Hey there 👋! I'm Cipher007
-I'm a 17 y/o interested in Cybersecurity.
+I'm a 17 y/o interested in Cybersecurity, Pentesting and Coding.
 
 ## I'm a CyberSecurity Researcher, Linux enthusiast and a Student
 
