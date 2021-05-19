@@ -32,9 +32,9 @@ I'm a 17 y/o interested in Cybersecurity.
 
 ## Connect with me
 
-[![Twitter](assets/twitter-logo.png)][Twitter]  
-[![Discord](assets/discord-logo.png)][Discord]  
-[![TryHackMe](assets/thm-logo.png)][TryHackMe]  
+[![Twitter](assets/twitter-logo.png)][Twitter]
+[![Discord](assets/discord-logo.png)][Discord]
+[![TryHackMe](assets/thm-logo.png)][TryHackMe]
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]  
 
 ---
