@@ -5,7 +5,7 @@ I'm a 17 y/o interested in Cybersecurity.
 
 * ⚡I have cleared my eJPT and multiple courses related to CyberSec.
 * ⚡I'm currently preparing for my OSCP.
-* ⚡I like doing CTF's and solvng challenges.
+* ⚡I like doing CTF's and solving challenges.
 * ⚡I also work on custom scripts and a variety of programs related to pentesting and CyberSecurity.
 * ⚡You can reach me via Twitter or Discord!
 
