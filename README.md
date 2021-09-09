@@ -19,6 +19,7 @@ I'm a 17 y/o interested in Cybersecurity.
 ## Certifications 
 
 * eLearnSecurity Junior Penetration Tester
+* Dante Pro Labs  from HackTheBox
 * Throwback AD-Lab from TryHackMe
 * Faculty Development Programme from NIT Patna
 * Offensive Pentesting Path from TryHackMe
