@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&center=true&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Cipher007)](https://git.io/typing-svg) I'm a 17 y/o interested in Cybersecurity.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&center=true&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Cipher007)](https://git.io/typing-svg) 
+
+I'm a 17 y/o interested in Cybersecurity.
 
 ## I'm a CyberSecurity Researcher, Linux enthusiast and a Student
 
@@ -17,7 +19,8 @@
 
 ## Certifications 
 
-* eLearnSecurity Junior Penetration Tester
+* Offensive Security Certified Professional (OSCP)
+* eLearnSecurity Junior Penetration Tester (eJPT)
 * Dante Pro Labs  from HackTheBox
 * Throwback AD-Lab from TryHackMe
 * Faculty Development Programme from NIT Patna
