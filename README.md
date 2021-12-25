@@ -27,6 +27,7 @@ I'm an 18 y/o interested in Cybersecurity.
 * Offensive Pentesting Path from TryHackMe
 * Beginner Path from TryHackMe
 * Web Pentesting Path from TryHackMe
+* Advent-of-Cyber-2021 from TryHackMe
 * Advent-of-Cyber-2020 from TryHackMe
 
 ## Published Stuff!
