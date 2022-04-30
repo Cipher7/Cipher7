@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Cipher007)](https://git.io/typing-svg)
 
-I'm an 18 y/o interested in Cybersecurity.
+I'm an 18 y/o Cybersecurity Researcher.
 
 ## I'm a CyberSecurity Researcher, Linux enthusiast and a Student
 
