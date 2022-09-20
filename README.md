@@ -20,6 +20,7 @@ I'm an 18 y/o Cybersecurity Researcher.
 ## Certifications 
 
 * Offensive Security Certified Professional (OSCP)
+* Certified Red Team Professional (CRTP)
 * eLearnSecurity Junior Penetration Tester (eJPT)
 * Dante Pro Labs  from HackTheBox
 * Throwback AD-Lab from TryHackMe
