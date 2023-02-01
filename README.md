@@ -49,7 +49,14 @@ I'm a 19 y/o Cybersecurity Researcher.
 
 ![Cipher7 github stats](https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia)
 
+---
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
+---
 [Twitter]: https://twitter.com/xCipher007
 [Discord]: https://discordapp.com/users/706779776349765722
 [TryHackMe]: https://tryhackme.com/p/Cipher007
