@@ -53,7 +53,7 @@ I'm a 19 y/o Cybersecurity Researcher.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/Cipher7/count.svg" />
 </p>
 
 ---
