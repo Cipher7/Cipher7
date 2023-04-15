@@ -21,6 +21,7 @@ I'm a 19 y/o Cybersecurity Researcher.
 ## Certifications 
 
 * Offensive Security Certified Professional (OSCP)
+* Certified Red Team Operator (CRTO)
 * RastaLabs Pro Labs from HackTheBox
 * Offshore Pro Labs from HackTheBox
 * Certified Red Team Professional (CRTP)
