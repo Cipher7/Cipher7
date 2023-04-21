@@ -4,7 +4,7 @@ I'm a 19 y/o Cybersecurity Researcher.
 
 ## I'm a CyberSecurity Researcher, Linux enthusiast and a Student
 
-* ⚡I have cleared my OSCP, CRTP, eJPT and multiple other courses related to CyberSec.
+* ⚡I have cleared my OSCP, CRTP, CRTO, eJPT and multiple other courses related to CyberSec.
 * ⚡I'm currently learning Malware Analysis and Red Teaming
 * ⚡I like doing CTF's and solving challenges.
 * ⚡I also work on custom scripts and a variety of programs related to pentesting and CyberSecurity.
