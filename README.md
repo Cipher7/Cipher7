@@ -2,12 +2,12 @@
 
 I'm a 19 y/o Cybersecurity Researcher.
 
-## I'm a CyberSecurity Researcher, Linux enthusiast and a Student
+## I'm a CyberSecurity Researcher, Linux enthusiast, and a Student
 
-* ⚡I have cleared my OSCP, CRTP, CRTO, eJPT and multiple other courses related to CyberSec.
+* ⚡I have cleared my OSCP, CRTP, CRTO, eJPT, and multiple other courses related to CyberSec.
 * ⚡I'm currently learning Malware Analysis and Red Teaming
-* ⚡I like doing CTF's and solving challenges.
-* ⚡I also work on custom scripts and a variety of programs related to pentesting and CyberSecurity.
+* ⚡I like doing CTFs and solving challenges.
+* ⚡I also work on custom scripts and programs related to pentesting and CyberSecurity.
 * ⚡You can reach me via Twitter or Discord!
 
 ## Programming Languages I know:
@@ -47,12 +47,13 @@ I'm a 19 y/o Cybersecurity Researcher.
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]  
 
 ---
-
-![Cipher7 github stats](https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia)
-
+<p align="center">
+  ![Cipher7 github stats](https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia)
+<p>
 ---
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/xCipher7?theme=dark&font=Cambay&ext=heatmap)
+<p align="center">
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/xCipher7?theme=dark&font=Cambay&ext=heatmap)
+</p>
 
 ---
 
