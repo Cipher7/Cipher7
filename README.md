@@ -52,6 +52,10 @@ I'm a 19 y/o Cybersecurity Researcher.
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/xCipher7?theme=dark&font=Cambay&ext=heatmap)
+
+---
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Cipher7/count.svg" />
