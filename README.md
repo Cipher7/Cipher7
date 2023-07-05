@@ -48,11 +48,13 @@ I'm a 19 y/o Cybersecurity Researcher.
 
 ---
 <p align="center">
-  ![Cipher7 github stats](https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia)
+  <img src="https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia" />
 <p>
+  
 ---
+
 <p align="center">
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/xCipher7?theme=dark&font=Cambay&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/xCipher7?theme=dark&font=Cambay&ext=heatmap" />
 </p>
 
 ---
