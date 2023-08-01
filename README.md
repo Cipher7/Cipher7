@@ -24,6 +24,7 @@ I'm a 19 y/o Cybersecurity Researcher.
 * Certified Red Team Operator (CRTO)
 * RastaLabs Pro Labs from HackTheBox
 * Offshore Pro Labs from HackTheBox
+* Zephyr Pro Labs from HackTheBox
 * Certified Red Team Professional (CRTP)
 * eLearnSecurity Junior Penetration Tester (eJPT)
 * Dante Pro Labs  from HackTheBox
