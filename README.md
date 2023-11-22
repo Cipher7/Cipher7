@@ -2,9 +2,6 @@
 
 I'm a 20 y/o Cybersecurity Researcher and a CTF player
 
-<html>
-  <script src="https://www.hackthebox.eu/badge/306748"></script>
-</html>
 ## I'm a CyberSecurity Researcher, Linux enthusiast, and a Student
 
 * ⚡I have cleared my OSCP, CRTP, CRTO, eJPT, and multiple other courses related to CyberSec.
