@@ -51,7 +51,7 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=algolia&background=0d1117" />
 <p>
   
 ---
