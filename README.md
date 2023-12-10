@@ -49,19 +49,14 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]  
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=algolia&background=0d1117" />
-<p>
-  
----
 
 # Stats 
 
-![](https://github-readme-stats.vercel.app/api?username=cipher7&theme=algolia&hide_border=true&include_all_commits=true&bg_color=0d1117&hide=issues,contribs&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher7&theme=algolia&bg_color=0d1117&hide_border=true&include_all_commits=true&layout=compact&langs_count=6) 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=algolia&background=0d1117&hide_border=true) <br/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cipher7&show_icons=true&theme=algolia" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=algolia&show_icons=true" />
+<p>
+  
 ---
 
 <p align="center"> 
