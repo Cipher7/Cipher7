@@ -61,6 +61,14 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
 
 ---
 
+# Stats 
+
+![](https://github-readme-stats.vercel.app/api?username=cipher7&theme=vue-dark&hide_border=true&include_all_commits=true&bg_color=0d1117&hide=issues,contribs&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher7&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&layout=compact&langs_count=6) 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cipher7&theme=vue-dark&background=0d1117&hide_border=true) <br/>
+
+---
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Cipher7/count.svg" />
