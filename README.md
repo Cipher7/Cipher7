@@ -55,12 +55,6 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
   
 ---
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/xCipher7?theme=dark&font=Cambay&ext=heatmap" />
-</p>
-
----
-
 # Stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=cipher7&theme=vue-dark&hide_border=true&include_all_commits=true&bg_color=0d1117&hide=issues,contribs&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cipher7&theme=vue-dark&bg_color=0d1117&hide_border=true&include_all_commits=true&layout=compact&langs_count=6) 
