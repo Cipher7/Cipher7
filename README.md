@@ -48,7 +48,6 @@ I'm a 20 y/o Cybersecurity Researcher and a CTF player
 [![TryHackMe](assets/thm-logo.png)][TryHackMe]
 [![HackTheBox](assets/htb-logo.png)][HackTheBox]  
 
----
 
 # Stats 
 
