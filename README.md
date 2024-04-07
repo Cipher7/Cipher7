@@ -2,7 +2,7 @@
 
 I'm a 20 y/o Cybersecurity Researcher and a CTF player
 
-## I'm a CyberSecurity Researcher, Linux enthusiast, and a Student
+## I'm a CyberSecurity Researcher, Red Teamer, and a Student
 
 * ⚡I have cleared my OSCP, CRTL, CRTO, eJPT, and multiple other courses related to CyberSec.
 * ⚡I'm currently learning Malware Development and Red Teaming
